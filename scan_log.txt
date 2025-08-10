@@ -1,0 +1,4 @@
+2025-07-25 04:57:38,242 - FILE: qr-code.png | URL: https://www.qrcode-monkey.com | RESULT: [O] LOW risk |REASONS: 
+2025-07-26 08:21:59,719 - FILE: qr-code (1).png | URL: http://login-paypa1.com | RESULT: [!!] Caution: MEDIUM risk |REASONS: Contains keyword: 'login' ,Domain is too new: 0 days old,NO valid SSL certificate
+2025-07-26 08:22:02,551 - FILE: qr-code (2).png | URL: http://secure-hbl-login.verifysite.net | RESULT: [!!] Caution: MEDIUM risk |REASONS: Contains keyword: 'login' ,Contains keyword: 'verify' ,Contains keyword: 'secure' ,NO valid SSL certificate
+2025-07-26 08:22:05,366 - FILE: qr-code.png | URL: https://www.qrcode-monkey.com | RESULT: [O] LOW risk |REASONS: 
